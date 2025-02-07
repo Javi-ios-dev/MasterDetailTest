@@ -4,7 +4,7 @@ Este es un proyecto de demostración utilizando la arquitectura **Clean Swift** 
 
 ## ¿Qué es Clean Swift?
 
-Clean Swift es una implementación de la arquitectura VIP (View-Interactor-Presenter) basada en Clean Architecture de Robert C. Martin (Uncle Bob). Su objetivo es separar la lógica de negocio de la lógica de presentación para hacer el código más modular, testeable y mantenible.
+Clean Swift es una implementación de la arquitectura VIP (View-Interactor-Presenter) basada en Clean Architecture de Robert C. Martin (Uncle Bob). Su objetivo es separar la lógica de negocio de la lógica de presentación para hacer el código más modular y mantenible.
 
 ## Estructura del Proyecto
 
