@@ -1,4 +1,4 @@
-# Test
+# Practica
 
 Este es un proyecto de demostración utilizando la arquitectura **Clean Swift** en una aplicación iOS. La app obtiene y muestra una lista de usuarios desde la API de [JSONPlaceholder](https://jsonplaceholder.typicode.com/users) y permite ver detalles de cada usuario.
 
